@@ -1,44 +1,40 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Estudiante extends Persona{
 
-    public int nota;
-    public String [] materia =  new String[0];
+    public List<Materia> materia;
 
 
-    public Estudiante(String[] materia, int nota,String nombre,String apellido,String ci, int edad) {
+    public Estudiante(String nombre,String apellido,String ci, int edad) {
         super(nombre,apellido,ci,edad);
-        this.nota = nota;
+        this.materia = new ArrayList<>();
     }
 
-    public void setMateria(String[] materia) {
-        this.materia = materia;
+    public void addMateria(Materia materia) {
+        this.materia.add(materia);
     }
 
-    public String[] getMateria() {
-        String[] materias = new String[0];
-        materias[0]="Lenguajes de Programacion";
-        materias[1]="Introduccion a Programacion";
-        materias[2]="Estructura de datos I";
-        materias[3]="Programacion Estrucuturada";
-        materias[4]="Auditoria de Sistemas";
-        return materia;
+    public String getMateria(String key, List<Materia>materias){
+        String detalle ="";
+        for (Materia materia:materias){
+            if(materia.getKey().equals(key)){
+                detalle = materia.getKey()+"\n"+materia.getNombre()+"\n"+materia.getNota();
+                break;
+            }
+        }
+        return detalle;
     }
 
-    public void setNota(int nota) {
-        this.nota = nota;
-    }
-
-    public int getNota() {
+    public int notaMinima(String key, int nota ,List<Materia>materias){
+        for(Materia materia:materias){
+            if(nota <=51){
+                System.out.println("Estas reprobado");
+            }else{
+                System.out.println("Estas aprobado");
+            }
+        }
         return nota;
     }
 
-    public int Calificacion(){
-        if(nota >= 51){
-            System.out.println("Estas aprobado");
-        }else
-        if(nota < 51)
-        {
-            System.out.println("Estas reprobado");
-        }
-        return 0;
-    }
 }
