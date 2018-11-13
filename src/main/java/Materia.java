@@ -7,20 +7,18 @@ public class Materia {
     public int nota;
     public List<Materia> materias;
 
-    public Materia(String nombre, String key, int nota) {
-        Nombre = nombre;
-        this.key = key;
+    public void setNota(int nota) {
         this.nota = nota;
-    }
-
-    public int setNota(int nota) {
-        this.nota = nota;
-
-        return nota;
     }
 
     public int getNota() {
         return nota;
+    }
+
+    public Materia(String nombre, String key, int nota) {
+        Nombre = nombre;
+        this.key = key;
+        this.nota = nota;
     }
 
     public String getNombre() {

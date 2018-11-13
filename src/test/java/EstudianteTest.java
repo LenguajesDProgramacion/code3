@@ -13,7 +13,7 @@ public class EstudianteTest {
     @Test
     public void estudiante() {
         Estudiante estudiante = new Estudiante("Marvin","Fernandez","9506285",23);
-        Materia materia1 = new Materia("Lenguajes de Programacion","SIS302",100);
+        Materia materia1 = new Materia("Lenguajes de Programacion","SIS302",60);
         Materia materia2 = new Materia("Ingles I","SIS302",100);
         Materia materia3 = new Materia("Proyectos II","ECO303",100);
 
@@ -40,4 +40,21 @@ public class EstudianteTest {
         int actual= estudiante.notaMinima("SIS302",100,m);
         Assert.assertEquals(expect,actual);
     }
+
+    @Test
+    public void estudianteMinima_all(){
+        Estudiante estudiante = new Estudiante("Marvin","Fernandez","9506285",23);
+        Materia materia1 = new Materia("Lenguajes de Programacion","SIS302",60);
+        Materia materia2 = new Materia("Ingles I","SIS302",100);
+        Materia materia3 = new Materia("Proyectos II","ECO303",100);
+
+
+        estudiante.addMateria(materia1);
+        estudiante.addMateria(materia2);
+        estudiante.addMateria(materia3);
+
+        int expect= 50;
+        int actual= estudiante.notaMinima_all();
+        Assert.assertEquals(expect, actual);
+;    }
 }
