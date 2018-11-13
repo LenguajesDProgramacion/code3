@@ -1,15 +1,13 @@
-public class Fecha {
+public class Fechas {
 
         private int dia;
         private int mes;
         private int año;
 
-        //Constructor por defecto
-        public Fecha() {
-        }
+
 
         //Constructor con parámetros
-        public Fecha(int dia, int mes, int año) {
+        public Fechas(int dia, int mes, int año) {
             this.dia = dia;
             this.mes = mes;
             this.año = año;

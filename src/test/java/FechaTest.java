@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Test_fecha {
+public class FechaTest {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -17,7 +17,7 @@ public class Test_fecha {
 
         //Se crea un objeto Fecha utilizando el consructor con parámetros
 
-        Fecha fecha = new Fecha(d,m,a);
+        Fechas fecha = new Fechas(d,m,a);
 
         if (fecha.fechaCorrecta()) { //si la fecha es correcta
 
