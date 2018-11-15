@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6a2a6f1-f435-40a1-9002-bc9384a9e395" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileSnapshots.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Electrodomestico.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Lavadora.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="$PROJECT_DIR$/gradlew" afterPath="$PROJECT_DIR$/gradlew" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Fechas.java" afterPath="$PROJECT_DIR$/src/main/java/Fechas.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FechaTest.java" afterPath="$PROJECT_DIR$/src/test/java/FechaTest.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Contador.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Fechas.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/ContadorTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/FechaTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Contador.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fechas.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ContadorTest.java" afterPath="$PROJECT_DIR$/src/test/java/ElectrodomesticoTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FechaTest.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -85,11 +86,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ContadorTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ContadorTest.java">
+      <file leaf-file-name="ElectrodomesticoTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ElectrodomesticoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="280">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,32 +98,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FechaTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/FechaTest.java">
+      <file leaf-file-name="Lavadora.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lavadora.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="397">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fechas.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Fechas.java">
+      <file leaf-file-name="Licuadora.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Licuadora.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+              <folding>
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Contador.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Contador.java">
+      <file leaf-file-name="Electrodomestico.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Electrodomestico.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="131">
+              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <folding>
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#637#638#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#712#713#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#788#789#0" expanded="true" />
+                <element signature="e#825#826#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
+                <element signature="e#917#918#0" expanded="true" />
+                <element signature="e#950#951#0" expanded="true" />
+                <element signature="e#979#980#0" expanded="true" />
+                <element signature="e#1011#1012#0" expanded="true" />
+                <element signature="e#1039#1040#0" expanded="true" />
+                <element signature="e#1067#1068#0" expanded="true" />
+                <element signature="e#1094#1095#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -465,10 +497,14 @@
         <option value="$PROJECT_DIR$/src/test/java/EstudianteTest.java" />
         <option value="$PROJECT_DIR$/gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/Estudiante.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Contador.java" />
         <option value="$PROJECT_DIR$/src/test/java/ContadorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Fechas.java" />
         <option value="$PROJECT_DIR$/src/test/java/FechaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Contador.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Fechas.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Electrodomestico.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Licuadora.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ElectrodomesticoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lavadora.java" />
       </list>
     </option>
   </component>
@@ -513,6 +549,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -556,9 +595,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -582,14 +618,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ContadorTest">
-    <configuration name="ContadorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="ElectrodomesticoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="code3_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ContadorTest" />
+      <option name="MAIN_CLASS_NAME" value="ElectrodomesticoTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -603,13 +639,13 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ContadorTest.contadorDecremento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ElectrodomesticoTest.contadorDecremento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="code3_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ContadorTest" />
+      <option name="MAIN_CLASS_NAME" value="ElectrodomesticoTest" />
       <option name="METHOD_NAME" value="contadorDecremento" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -623,13 +659,13 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ContadorTest.contadorIncremento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ElectrodomesticoTest.contadorIncremento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="code3_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ContadorTest" />
+      <option name="MAIN_CLASS_NAME" value="ElectrodomesticoTest" />
       <option name="METHOD_NAME" value="contadorIncremento" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -643,13 +679,13 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ContadorTest.estudiante" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ElectrodomesticoTest.estudiante" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="code3_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ContadorTest" />
+      <option name="MAIN_CLASS_NAME" value="ElectrodomesticoTest" />
       <option name="METHOD_NAME" value="estudiante" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -663,13 +699,13 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ContadorTest.estudianteNota" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ElectrodomesticoTest.estudianteNota" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="code3_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ContadorTest" />
+      <option name="MAIN_CLASS_NAME" value="ElectrodomesticoTest" />
       <option name="METHOD_NAME" value="estudianteNota" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -684,19 +720,19 @@
       <patterns />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ContadorTest.contadorDecremento" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ContadorTest.contadorIncremento" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ContadorTest.estudianteNota" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ContadorTest.estudiante" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ContadorTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ElectrodomesticoTest.contadorDecremento" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ElectrodomesticoTest.contadorIncremento" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ElectrodomesticoTest.estudianteNota" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ElectrodomesticoTest.estudiante" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ElectrodomesticoTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ContadorTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ContadorTest.estudiante" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ContadorTest.estudianteNota" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ContadorTest.contadorIncremento" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ContadorTest.contadorDecremento" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ElectrodomesticoTest.contadorIncremento" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ElectrodomesticoTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ElectrodomesticoTest.estudiante" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ElectrodomesticoTest.estudianteNota" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ElectrodomesticoTest.contadorDecremento" />
       </list>
     </recent_temporary>
   </component>
@@ -720,35 +756,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EstudianteTest_estudianteNota - 2018.11.12 at 13h 49m 06s.xml">
-      <configuration name="EstudianteTest.estudianteNota" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EstudianteTest - 2018.11.12 at 13h 51m 08s.xml">
-      <configuration name="EstudianteTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ContadorTest - 2018.11.12 at 14h 31m 22s.xml">
-      <configuration name="ContadorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ContadorTest - 2018.11.12 at 14h 31m 36s.xml">
-      <configuration name="ContadorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ContadorTest - 2018.11.12 at 14h 31m 45s.xml">
       <configuration name="ContadorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ContadorTest_contadorIncremento - 2018.11.12 at 14h 32m 35s.xml">
-      <configuration name="ContadorTest.contadorIncremento" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ContadorTest_contadorDecremento - 2018.11.12 at 14h 33m 15s.xml">
-      <configuration name="ContadorTest.contadorDecremento" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ContadorTest - 2018.11.12 at 14h 33m 20s.xml">
       <configuration name="ContadorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ContadorTest - 2018.11.12 at 14h 33m 33s.xml">
+      <configuration name="ContadorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContadorTest - 2018.11.12 at 20h 27m 18s.xml">
+      <configuration name="ContadorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContadorTest_contadorDecremento - 2018.11.12 at 14h 33m 15s.xml">
+      <configuration name="ContadorTest.contadorDecremento" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="ContadorTest_contadorDecremento - 2018.11.12 at 14h 33m 27s.xml">
       <configuration name="ContadorTest.contadorDecremento" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ContadorTest - 2018.11.12 at 14h 33m 33s.xml">
-      <configuration name="ContadorTest" configurationId="JUnit" />
+    <history-entry file="ContadorTest_contadorIncremento - 2018.11.12 at 14h 32m 35s.xml">
+      <configuration name="ContadorTest.contadorIncremento" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElectrodomesticoTest_contadorIncremento - 2018.11.13 at 19h 58m 19s.xml">
+      <configuration name="ElectrodomesticoTest.contadorIncremento" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElectrodomesticoTest_contadorIncremento - 2018.11.13 at 20h 03m 44s.xml">
+      <configuration name="ElectrodomesticoTest.contadorIncremento" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EstudianteTest - 2018.11.12 at 13h 51m 08s.xml">
+      <configuration name="EstudianteTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -756,37 +792,66 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20045386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24444444" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2034188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18532526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24444444" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2034188" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18532526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -801,7 +866,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/ContadorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ElectrodomesticoTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -811,11 +876,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Contador.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/FechaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lavadora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Electrodomestico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ElectrodomesticoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Electrodomestico.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding />
+          <folding>
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -834,34 +980,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Contador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Fechas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FechaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="40">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ContadorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Licuadora.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Electrodomestico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lavadora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ElectrodomesticoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
