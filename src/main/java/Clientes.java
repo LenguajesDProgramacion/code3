@@ -17,7 +17,7 @@ public class Clientes {
     public int totalPagarA(String claveCliente){
         if (claveCliente == Descuentos.Grupo0){
         }if(numCompras>=10000){
-            descuento = (int) (total* (10)/100);
+            descuento = (total* (10)/100);
         }else{
             System.out.print("Necesita tener mas de 10.000 compras para el descuento");
         }
@@ -27,7 +27,7 @@ public class Clientes {
     public int totalPagarB(String claveCliente){
         if (claveCliente == Descuentos.Grupo1){
         }if(numCompras>=10000){
-            descuento = (int) (total * (5)/100);
+            descuento = (total * (5)/100);
         }else{
             System.out.print("Necesita tener mas de 10.000 compras para el descuento");
         }
@@ -37,7 +37,7 @@ public class Clientes {
     public int totalPagarC(String claveCliente){
         if (claveCliente == Descuentos.Grupo0){
         }if(numCompras>=10000){
-            descuento = (int) (total * (2)/100);
+            descuento = (total * (2)/100);
         }else{
             System.out.print("Necesita tener mas de 10.000 compras para el descuento");
         }

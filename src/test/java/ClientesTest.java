@@ -32,9 +32,9 @@ public class ClientesTest {
 
     @Test
     public void clienTestfailed(){
-        Clientes clientes = new Clientes("Jorge","C",1000);
+        Clientes clientes = new Clientes("Jorge","C",10000);
         int actual=clientes.totalPagarC("C");
-        int expect=0;
+        int expect=100;
         Assert.assertEquals(expect,actual);
     }
 }
