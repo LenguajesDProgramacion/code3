@@ -4,13 +4,10 @@ public abstract class Masajista extends SeleccionFutbol implements MasajistaIn {
     protected String aniosExperiencia;
 
 
-    public Masajista(String titulacion, String aniosExperiencia) {
+    public Masajista(int id,String titulacion, String aniosExperiencia,String nombre, String apellido, int edad) {
+        super(id,nombre,apellido,edad);
         this.titulacion = titulacion;
         this.aniosExperiencia = aniosExperiencia;
-    }
-
-    public void setTitulacion(String titulacion) {
-        this.titulacion = titulacion;
     }
 
     public void setAniosExperiencia(String aniosExperiencia) {
