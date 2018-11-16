@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1eec6a80-d5aa-4bfb-b995-e2f0e5a81525" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1438193123">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1720" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1720" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SeleccionFutbol.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <marker date="1542389260406" expanded="true" signature="23:28" ph="..." />
+                <marker date="1542389260406" expanded="true" signature="23:910" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Entrenador.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <marker date="1542389716728" expanded="true" signature="85:90" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test/SeleccionFutbolTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main/src_SeleccionFutbol.py" />
+        <option value="$PROJECT_DIR$/src/SeleccionFutbol.py" />
+        <option value="$PROJECT_DIR$/Test/SeleccionFutbolTest.py" />
+        <option value="$PROJECT_DIR$/src/Entrenador.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1" />
+    <option name="y" value="6" />
+    <option name="width" value="1053" />
+    <option name="height" value="706" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SeleccionFutbol" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleccionFutbol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleccionFutbol" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleccionFutbol" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleccionFutbol" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleccionFutbol" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for SeleccionFutbolTest.SeleccionFutbolTest">
+    <configuration name="Unittests for SeleccionFutbolTest.SeleccionFutbolTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleccionFutbol" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SeleccionFutbolTest.SeleccionFutbolTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_concentrarse" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleccionFutbol" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SeleccionFutbolTest.SeleccionFutbolTest.test_concentrarse&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_viajar" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleccionFutbol" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SeleccionFutbolTest.SeleccionFutbolTest.test_viajar&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_viajarPoliformismo" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleccionFutbol" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SeleccionFutbolTest.SeleccionFutbolTest.test_viajarPoliformismo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_viajar" />
+      <item itemvalue="Python tests.Unittests for SeleccionFutbolTest.SeleccionFutbolTest" />
+      <item itemvalue="Python tests.Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_concentrarse" />
+      <item itemvalue="Python tests.Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_viajarPoliformismo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for SeleccionFutbolTest.SeleccionFutbolTest" />
+        <item itemvalue="Python tests.Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_viajarPoliformismo" />
+        <item itemvalue="Python tests.Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_concentrarse" />
+        <item itemvalue="Python tests.Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_viajar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1eec6a80-d5aa-4bfb-b995-e2f0e5a81525" name="Default Changelist" comment="" />
+      <created>1542380327972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542380327972</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_SeleccionFutbolTest_SeleccionFutbolTest - 2018.11.16 at 12h 30m 54s.xml">
+      <configuration name="Unittests for SeleccionFutbolTest.SeleccionFutbolTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_SeleccionFutbolTest_SeleccionFutbolTest_test_concentrarse - 2018.11.16 at 12h 33m 48s.xml">
+      <configuration name="Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_concentrarse" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_SeleccionFutbolTest_SeleccionFutbolTest_test_concentrarse - 2018.11.16 at 12h 34m 11s.xml">
+      <configuration name="Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_concentrarse" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_SeleccionFutbolTest_SeleccionFutbolTest - 2018.11.16 at 12h 34m 19s.xml">
+      <configuration name="Unittests for SeleccionFutbolTest.SeleccionFutbolTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_SeleccionFutbolTest_SeleccionFutbolTest_test_viajarPoliformismo - 2018.11.16 at 13h 27m 41s.xml">
+      <configuration name="Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_viajarPoliformismo" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_SeleccionFutbolTest_SeleccionFutbolTest_test_viajarPoliformismo - 2018.11.16 at 13h 28m 23s.xml">
+      <configuration name="Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_viajarPoliformismo" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_SeleccionFutbolTest_SeleccionFutbolTest_test_viajarPoliformismo - 2018.11.16 at 13h 29m 12s.xml">
+      <configuration name="Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_viajarPoliformismo" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_SeleccionFutbolTest_SeleccionFutbolTest_test_viajarPoliformismo - 2018.11.16 at 13h 31m 47s.xml">
+      <configuration name="Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_viajarPoliformismo" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_SeleccionFutbolTest_SeleccionFutbolTest_test_viajarPoliformismo - 2018.11.16 at 13h 32m 17s.xml">
+      <configuration name="Unittests for SeleccionFutbolTest.SeleccionFutbolTest.test_viajarPoliformismo" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_SeleccionFutbolTest_SeleccionFutbolTest - 2018.11.16 at 13h 35m 16s.xml">
+      <configuration name="Unittests for SeleccionFutbolTest.SeleccionFutbolTest" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15695792" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5998487" visible="true" weight="0.24618992" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39966556" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.6603631" weight="0.32943144" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.33963692" side_tool="true" weight="0.32942554" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SeleccionFutbol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <marker date="1542389260406" expanded="true" signature="23:28" ph="..." />
+            <marker date="1542389260406" expanded="true" signature="23:910" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entrenador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1542389716728" expanded="true" signature="85:90" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/SeleccionFutbolTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
