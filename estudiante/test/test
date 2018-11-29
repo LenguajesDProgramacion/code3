@@ -1,0 +1,8 @@
+import java.util.Scanner;
+import estudiante.*
+
+
+public static void main (String [ ] args) {
+    Persona persona1 = new Persona("Marvin","Fernandez","Flores",23);
+    Estudiante estudiante1 = new Estudiante("Lenguajes de programacion", 100);
+}
