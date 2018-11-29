@@ -1,0 +1,32 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JetBrains Rider
+.idea/
+.gradle/
+*.iml
+*.iws
+*.ipr
+*.lock
+settings.gradle
+build/
+reports/
+
+# Ignore thumbnails created by Windows
+Thumbs.db
+
+# Mac crap
+.DS_Store
+*.html
+
+
