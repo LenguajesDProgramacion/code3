@@ -27,7 +27,7 @@ public class Docente extends Persona {
 
     public String datos(){
         String datos;
-        datos = "El docente es: "+getNombre()+" "+getApellido()+"\nDicta la materia de "+getDicta_materia()+"\n"+getEn_Carrera();
+        datos = "El docente es: "+getNombre()+" "+getApellido()+"\nDicta la materias de "+getDicta_materia()+"\n"+getEn_Carrera();
         System.out.println(datos);
         return datos;
     }

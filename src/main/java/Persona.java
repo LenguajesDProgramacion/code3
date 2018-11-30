@@ -10,18 +10,6 @@ public class Persona {
         this.ci = ci;
     }
 
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
-
-    public void setApellido(String apellido) {
-        this.apellido = apellido;
-    }
-
-    public void setCi(String ci) {
-        this.ci = ci;
-    }
-
     public String getNombre() {
         return nombre;
     }

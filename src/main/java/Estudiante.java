@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.List;
 
 public class Estudiante extends Persona {
@@ -18,7 +17,7 @@ public class Estudiante extends Persona {
 
     public String verDatos(){
         String datos;
-        datos = getNombre()+"\n"+getApellido()+"\n"+getCarrera();//+"\n"+materia.getKey()+"\n"+docente.getNombre()+"\n"+materia.getNota();
+        datos = getNombre()+"\n"+getApellido()+"\n"+getCarrera();//+"\n"+materias.getKey()+"\n"+docente.getNombre()+"\n"+materias.getNota();
         System.out.println(datos);
         return datos;
     }

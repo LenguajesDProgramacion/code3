@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.List;
 
 public class Materia {
@@ -6,7 +5,7 @@ public class Materia {
     public String Nombre;
     public String key ="";
     public int nota;
-    public List<Materia> materia;
+    public List<Materia> materias;
 
     public Materia(String nombre, String key, int nota) {
         Nombre = nombre;
@@ -19,7 +18,11 @@ public class Materia {
     }
 
     public void addMateria(Materia materia){
-        this.materia.add(materia);
+        this.materias.add(materia);
+    }
+
+    public void deleteAll_Materia(Materia materia){
+        this.materias.remove(materia);
     }
 
     public String getNombre() {
@@ -30,8 +33,21 @@ public class Materia {
         return key;
     }
 
-    public List<Materia> getMateria() {
-        return materia;
+    public List<Materia> getMaterias() {
+        return materias;
+    }
+
+    public void deleteMateria(Materia materia){
+        try{
+            for(Materia materia1: materias){
+                if(materia.getNombre().equals(materia)){
+                    this.materias.remove(materia);
+                    break;
+                }catch(Exception e){
+                    System.out.print(e);
+                }
+            }
+        }
     }
 
     public String getMateria(String key, List<Materia> materias) {
@@ -58,7 +74,7 @@ public class Materia {
 
     public int notaMinima_all() {
         int nota_minima = 50;
-        for (Materia materia : this.materia) {
+        for (Materia materia : this.materias) {
             if (materia.getNota() <= nota_minima) {
                 nota_minima = materia.getNota();
             }
