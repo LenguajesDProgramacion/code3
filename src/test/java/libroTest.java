@@ -19,10 +19,18 @@ public class libroTest {
     }
 
     @Test
+    public void test_PrestamoLibro_Failure() {
+        Libro l1 = new Libro("Introduccion a programacion","Joyanes Aguilar",10,2);
+        int expect = l1.prestamo_Libro(2,3);
+        int actual = 1;
+        Assert.assertEquals(expect,actual);
+    }
+
+    @Test
     public void test_devolucionLibro(){
         Libro l1 = new Libro("Introduccion a programacion","Joyanes Aguilar",10,2);
-        int expect = l1.prestamo_Libro(10,2);
-        int actual = 1;
+        int expect = l1.devolucion_Libro(12,2);
+        int actual = -1;
         Assert.assertEquals(expect,actual);
     }
 

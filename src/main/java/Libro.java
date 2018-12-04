@@ -48,27 +48,25 @@ public class Libro {
     }
 
     public int prestamo_Libro(int numCopias, int numLib_Prestado){
-        numCopias = 10;
-        numLib_Prestado =0;
-
         if(numCopias >= numLib_Prestado){
             System.out.println("Existen libros para prestar");
 
-            numCopias =-1;
-            numLib_Prestado =+1;
-
-        }else if (numCopias < numLib_Prestado){
+        }else {
             System.out.println("No existen libros para el prestamo");
         }
+        numCopias =-1;
+        numLib_Prestado =+1;
         return numLib_Prestado;
 
     }
 
     public int devolucion_Libro(int numCopias, int numLib_Prestado){
+        numCopias = 10;
+        numLib_Prestado =0;
         numLib_Prestado =-1;
         numCopias =+1;
 
-        if(numLib_Prestado < numCopias){
+        if(numLib_Prestado >= numCopias){
             System.out.println("Se necesita devolucion de libros");
         }
         return numLib_Prestado;
